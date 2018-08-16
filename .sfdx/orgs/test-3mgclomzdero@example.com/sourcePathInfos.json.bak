@@ -1,0 +1,812 @@
+[
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552121,
+            "changeTime": 1534400552121,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552121,
+            "changeTime": 1534400552121,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552176,
+            "changeTime": 1534400552176,
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552138,
+            "changeTime": 1534400552138,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552131,
+            "changeTime": 1534400552131,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1534400552123,
+            "changeTime": 1534400552123,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 339,
+            "modifiedTime": 1534400552124,
+            "changeTime": 1534400552124,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1534400552126,
+            "changeTime": 1534400552126,
+            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1534400552127,
+            "changeTime": 1534400552127,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1534400552128,
+            "changeTime": 1534400552128,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534400552128,
+            "changeTime": 1534400552128,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1534400552129,
+            "changeTime": 1534400552129,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534400552130,
+            "changeTime": 1534400552130,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534400552131,
+            "changeTime": 1534400552131,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552138,
+            "changeTime": 1534400552138,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1534400552133,
+            "changeTime": 1534400552133,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 120,
+            "modifiedTime": 1534400552134,
+            "changeTime": 1534400552134,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1534400552135,
+            "changeTime": 1534400552135,
+            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1534400552135,
+            "changeTime": 1534400552135,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1534400552136,
+            "changeTime": 1534400552136,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534400552136,
+            "changeTime": 1534400552136,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1534400552137,
+            "changeTime": 1534400552137,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534400552137,
+            "changeTime": 1534400552137,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534400552138,
+            "changeTime": 1534400552138,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552147,
+            "changeTime": 1534400552147,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1534400552139,
+            "changeTime": 1534400552139,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 182,
+            "modifiedTime": 1534400552140,
+            "changeTime": 1534400552140,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1534400552141,
+            "changeTime": 1534400552141,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1534400552142,
+            "changeTime": 1534400552142,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1534400552143,
+            "changeTime": 1534400552143,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534400552144,
+            "changeTime": 1534400552144,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1534400552145,
+            "changeTime": 1534400552145,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534400552146,
+            "changeTime": 1534400552146,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534400552147,
+            "changeTime": 1534400552147,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552151,
+            "changeTime": 1534400552151,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1534400552150,
+            "changeTime": 1534400552150,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1534400552152,
+            "changeTime": 1534400552152,
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552156,
+            "changeTime": 1534400552156,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1534400552154,
+            "changeTime": 1534400552154,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1534400552155,
+            "changeTime": 1534400552155,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1534400552156,
+            "changeTime": 1534400552156,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1534400552157,
+            "changeTime": 1534400552157,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552158,
+            "changeTime": 1534400552158,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552159,
+            "changeTime": 1534400552159,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552159,
+            "changeTime": 1534400552159,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1534400552160,
+            "changeTime": 1534400552160,
+            "contentHash": "be480d2c23dd7c1516f7482ee720d40ad9af461a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552161,
+            "changeTime": 1534400552161,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1534400552167,
+            "changeTime": 1534400552167,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552196,
+            "changeTime": 1534400552196,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17878,
+            "modifiedTime": 1534400552179,
+            "changeTime": 1534400552179,
+            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4477,
+            "modifiedTime": 1534400552180,
+            "changeTime": 1534400552180,
+            "contentHash": "daf6d679fa2b6ae8d5314e8d22ccbda26c85b4b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4473,
+            "modifiedTime": 1534400552195,
+            "changeTime": 1534400552195,
+            "contentHash": "9a6f04538325a8bbf6de40b58f92e3e39e31bb5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4813,
+            "modifiedTime": 1534400552197,
+            "changeTime": 1534400552197,
+            "contentHash": "b22364f0c3894bb819c607786a3ae0a63d800a37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manish.chandra\\FirstSFDX",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\manish.chandra\\FirstSFDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534400552201,
+            "changeTime": 1534400552201,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
